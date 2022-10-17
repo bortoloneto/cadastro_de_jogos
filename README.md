@@ -4,4 +4,6 @@
 exemplo de arquivo Readme.md
 Neste arquivo sempre deixamos toda a documentaçao para execução e mudanças do projeto
 
+node app.js
+
 ...
